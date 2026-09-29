@@ -1,0 +1,1 @@
+Media remote: it needs a webcam, press q to quit, and the gesture map is index finger for volume up, pinky for volume down, peace sign for play/pause, and open palm for mute.
